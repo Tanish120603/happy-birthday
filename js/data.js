@@ -99,21 +99,6 @@ const BIRTHDAY_CONFIG = {
       rating: "5.0",
     },
     {
-      id: 6,
-      name: "Tanish",
-      candles: 2,
-      message: "Another year of being awesome! HBD! 🎁",
-      coverImage: "assets/tanish/tanish1.jpeg",
-      photos: [
-        "assets/tanish/tanish1.jpeg",
-        "assets/tanish/tanish2.jpeg",
-      ],
-      video: "assets/tanish/tanish.mp4",
-      fakePrice: "Rs 0",
-      fakeDiscount: "Free for you 💝",
-      rating: "5.0",
-    },
-    {
       id: 7,
       name: "Vidushi",
       candles: 2,
@@ -132,7 +117,7 @@ const BIRTHDAY_CONFIG = {
     {
       id: 8,
       name: "Mama & Mami",
-      candles: 2,
+      candles: 4,
       message: "Blessings and love on your special day! 🙏💕",
       coverImage: "assets/mama_mami/mama_mami1.jpeg",
       photos: [
